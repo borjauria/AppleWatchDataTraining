@@ -1,3 +1,2 @@
-# AppleWatchDataTraining
 Dataset from my Apple Watch training.
-![Screenshot 2020-05-22 at 18 31 35](https://user-images.githubusercontent.com/45542785/82689364-a2c48800-9c5a-11ea-884c-2fd53f8b75ea.png)
+![og__bb3dc50gux7m](https://user-images.githubusercontent.com/45542785/82689893-7cebb300-9c5b-11ea-91e5-d527cf3beecb.png)
